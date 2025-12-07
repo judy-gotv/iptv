@@ -1,14 +1,14 @@
 #EXTM3U
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2025-12-07 11:41:09 (BD Time)
+# Update on 2025-12-07 12:51:01 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD 1",Fallback Channel
 https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 # By Abu SAEEID X Noob
 # Github X @abusaeeidx
-# Update on 2025-12-07 11:45:08 (BD Time)
+# Update on 2025-12-07 12:51:52 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 
 #EXTINF:-1 tvg-id="crich2" tvg-name="Sky Sports Cricket" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/sky_sports_cricket.png" group-title="CricHD 2",Sky Sports Cricket
@@ -17,11 +17,6 @@ https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/mai
 https://google.com/hls/test.m3u8
 
 #EXTINF:-1 tvg-id="gtv" tvg-name="T Sports BD" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/tsportsbd.png" group-title="CricHD 2",T Sports BD
-#EXTVLCOPT:http-referer=https://bhalocast.com/
-#EXTVLCOPT:http-origin=https://bhalocast.com
-https://google.com/hls/test.m3u8
-
-#EXTINF:-1 tvg-id="willow" tvg-name="Willow" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/willow.png" group-title="CricHD 2",Willow
 #EXTVLCOPT:http-referer=https://bhalocast.com/
 #EXTVLCOPT:http-origin=https://bhalocast.com
 https://google.com/hls/test.m3u8
