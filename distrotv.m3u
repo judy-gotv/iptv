@@ -2,8 +2,8 @@
 # 🖥️ Developed by: Abu SAEEID X Noob
 # 🔗 GitHub/Telegram: @abusaeeidx
 # 📡 IPTV Telegram Channels: @xfireflixbd
-# 🕒 Last Updated: 2025-12-11 12:25:12 AM (BD Time)
-# 📺 Channels Count : 482
+# 🕒 Last Updated: 2025-12-11 07:19:05 AM (BD Time)
+# 📺 Channels Count : 486
 # 📜 Disclaimer:
 # 🎯 This tool does NOT host any content.
 # 📌 It aggregates publicly available data for informational purposes only.
@@ -120,6 +120,10 @@ https://global.cgtn.cicc.media.caton.cloud/master/cgtn-espanol.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-spa/euronews-es.m3u8
 #EXTINF:-1 tvg-id="al-arabiya" tvg-logo="https://a.jsrdn.com/hls/23137/al-arabiya/poster_20231205_175721.jpg" group-title="News & Opinion",Al Arabiya
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/al-arabiya/master.m3u8
+#EXTINF:-1 tvg-id="daystar-tv" tvg-logo="https://a.jsrdn.com/hls/23240/daystar-tv/poster_20251209_232015.png" group-title="New Arrivals",Daystar TV
+https://live-mcl.cdn01.net/smarttv/48vy43564/playlist.m3u8
+#EXTINF:-1 tvg-id="daystar-espanol" tvg-logo="https://a.jsrdn.com/hls/23240/daystar-espanol/poster_20251209_232550.png" group-title="New Arrivals",Daystar Español
+https://live-mcl.cdn01.net/smarttv/64wj6m6d8/playlist.m3u8
 #EXTINF:-1 tvg-id="unleashed-by-dogtv" tvg-logo="https://a.jsrdn.com/hls/23231/unleashed-by-dogtv/poster_20251030_220000.jpg" group-title="New Arrivals",Unleashed by DOGTV
 https://amg26269-amg26269c2-distrotv-us-8939.playouts.now.amagi.tv/playlist/amg26269-dogtv-unleashedbydogtv-distrotvus/playlist.m3u8
 #EXTINF:-1 tvg-id="crime-and-evidence" tvg-logo="https://a.jsrdn.com/hls/23181/crime-and-evidence/poster_20250818_194228.jpg" group-title="New Arrivals",Crime & Evidence
@@ -774,12 +778,16 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/22G5UVCESMIOP38D3YET/hls3/now,-1m/m.m3u8
 #EXTINF:-1 tvg-id="fitness-rewind-by-collage-video" tvg-logo="https://a.jsrdn.com/hls/23195/fitness-rewind-by-collage-video/poster_20241211_002131.jpg" group-title="Lifestyle & Wellness",Fitness Rewind by Collage Video
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/6JK51FOJE3NCVH2POB9E/hls3/now,-1m/m.m3u8
+#EXTINF:-1 tvg-id="daystar-tv" tvg-logo="https://a.jsrdn.com/hls/23240/daystar-tv/poster_20251209_232015.png" group-title="Spirituality",Daystar TV
+https://live-mcl.cdn01.net/smarttv/48vy43564/playlist.m3u8
 #EXTINF:-1 tvg-id="elevation-church-network" tvg-logo="https://a.jsrdn.com/hls/23224/elevation-church-network/poster_20250623_165557.jpg" group-title="Spirituality",Elevation Church Network
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/elevation-church-network/playlist.m3u8
 #EXTINF:-1 tvg-id="in-touch-plus" tvg-logo="https://a.jsrdn.com/hls/23223/in-touch-plus/poster_20250610_210528.jpg" group-title="Spirituality",In Touch+
 https://amg01540-amg01540c2-distrotv-us-8133.playouts.now.amagi.tv/playlist/amg01540-apexmediafast-intouchplus-distrotvus/playlist.m3u8
 #EXTINF:-1 tvg-id="jewish-life-television-jltv" tvg-logo="https://a.jsrdn.com/hls/23114/jewish-life-television-jltv/poster_20230413_173205.png" group-title="Spirituality",Jewish Life Television JLTV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/jewish-life-television-jltv/jltv.m3u8
+#EXTINF:-1 tvg-id="daystar-espanol" tvg-logo="https://a.jsrdn.com/hls/23240/daystar-espanol/poster_20251209_232550.png" group-title="Spirituality",Daystar Español
+https://live-mcl.cdn01.net/smarttv/64wj6m6d8/playlist.m3u8
 #EXTINF:-1 tvg-id="bless-tv" tvg-logo="https://a.jsrdn.com/hls/23015/bless-tv/poster_20220126_191351.jpg" group-title="Spirituality",Bless TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bless-tv/master.m3u8
 #EXTINF:-1 tvg-id="garv-punjab-gurbani" tvg-logo="https://a.jsrdn.com/hls/22994/garv-punjab-gurbani/poster_20210928_174326.jpg" group-title="Spirituality",Garv Punjab Gurbani
