@@ -2,8 +2,8 @@
 # 🖥️ Developed by: Abu SAEEID X Noob
 # 🔗 GitHub/Telegram: @abusaeeidx
 # 📡 IPTV Telegram Channels: @xfireflixbd
-# 🕒 Last Updated: 2026-01-29 12:31:58 AM (BD Time)
-# 📺 Channels Count : 501
+# 🕒 Last Updated: 2026-01-29 07:43:56 AM (BD Time)
+# 📺 Channels Count : 505
 # 📜 Disclaimer:
 # 🎯 This tool does NOT host any content.
 # 📌 It aggregates publicly available data for informational purposes only.
@@ -122,6 +122,10 @@ https://global.cgtn.cicc.media.caton.cloud/master/cgtn-espanol.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-spa/euronews-es.m3u8
 #EXTINF:-1 tvg-id="al-arabiya" tvg-logo="https://a.jsrdn.com/hls/23137/al-arabiya/poster_20231205_175721.jpg" group-title="News & Opinion",Al Arabiya
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/al-arabiya/master.m3u8
+#EXTINF:-1 tvg-id="rock-solid-wrestling-tv" tvg-logo="https://a.jsrdn.com/hls/23195/rock-solid-wrestling-tv/poster_20260122_222837.jpg" group-title="New Arrivals",Rock Solid Wrestling TV
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/0HQB0C0B3JRT3U7C103F/hls3/now,-1m/m.m3u8
+#EXTINF:-1 tvg-id="ptc-punjabi-canada" tvg-logo="https://a.jsrdn.com/hls/23215/ptc-punjabi-canada/poster_20260113_224652.png" group-title="New Arrivals",PTC Punjabi Canada
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/ptc-punjabi-canada/index.m3u8
 #EXTINF:-1 tvg-id="dj-central-tv" tvg-logo="https://a.jsrdn.com/hls/23195/dj-central-tv/poster_20260120_204439.jpg" group-title="New Arrivals",DJ Central TV
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/PB75VYPS2NI9IEB7I7T1/hls3/now,-1m/m.m3u8
 #EXTINF:-1 tvg-id="amar-ujala" tvg-logo="https://a.jsrdn.com/hls/23249/amar-ujala/poster_20260115_224429.jpg" group-title="New Arrivals",Amar Ujala
@@ -274,6 +278,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 #EXTINF:-1 tvg-id="zee-bollyworld" tvg-logo="https://a.jsrdn.com/hls/22882/zee-bollyworld/poster_20240507_215000.jpg" group-title="Desi Entertainment",Zee BollyWorld
 https://api-ott-zee-zb.ottera.tv/loggingmediaurlpassthrough/a.m3u8
+#EXTINF:-1 tvg-id="ptc-punjabi-canada" tvg-logo="https://a.jsrdn.com/hls/23215/ptc-punjabi-canada/poster_20260113_224652.png" group-title="Desi Entertainment",PTC Punjabi Canada
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/ptc-punjabi-canada/index.m3u8
 #EXTINF:-1 tvg-id="bollywood-masala" tvg-logo="https://a.jsrdn.com/hls/23142/bollywood-masala/poster_20240213_192944.png" group-title="Desi Entertainment",Bollywood Masala
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-masala/index.m3u8
 #EXTINF:-1 tvg-id="bollywood-hd" tvg-logo="https://a.jsrdn.com/hls/23077/bollywood-hd/poster_20240521_223612.jpg" group-title="Desi Entertainment",Bollywood HD
@@ -696,6 +702,8 @@ https://amg00966-amg00966c1-distrotv-us-7706.playouts.now.amagi.tv/playlist/amg0
 https://amg00966-amg00966c10-amgplt0081.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0081/playlist.m3u8
 #EXTINF:-1 tvg-id="xfc-tv" tvg-logo="https://a.jsrdn.com/hls/22915/xfc-tv/poster_20210325_232007.jpg" group-title="MMA & More",XFC TV
 https://stream-us-east-1.getpublica.com/playlist.m3u8
+#EXTINF:-1 tvg-id="rock-solid-wrestling-tv" tvg-logo="https://a.jsrdn.com/hls/23195/rock-solid-wrestling-tv/poster_20260122_222837.jpg" group-title="MMA & More",Rock Solid Wrestling TV
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/0HQB0C0B3JRT3U7C103F/hls3/now,-1m/m.m3u8
 #EXTINF:-1 tvg-id="hard-knocks-fighting" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22817/hard-knocks-fighting/poster_20200717_232723.jpg" group-title="MMA & More",Hard Knocks
 https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8
 #EXTINF:-1 tvg-id="fite-247" tvg-logo="https://a.jsrdn.com/hls/23007/fite-247/poster_20220314_213544.png" group-title="MMA & More",FITE 24/7
