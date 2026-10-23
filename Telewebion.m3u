@@ -2,14 +2,14 @@
 # 🖥️ Developed by: Abu SAEEID X Noob
 # 🔗 GitHub/Telegram: @abusaeeidx
 # 📡 IPTV Telegram Channels: @xfireflixbd
-# 🕒 Last Updated: 2026-10-22 08:27:10 AM (BD Time)
+# 🕒 Last Updated: 2026-10-23 08:32:03 AM (BD Time)
 # 📺 Channels Count : 69
 # 📜 Disclaimer:
 # 🎯 This tool does NOT host any content.
 # 📌 It aggregates publicly available data for informational purposes only.
 # 📩 For any issues or concerns, please contact the developer.
 #==================================
-#EXTM3U
+#EXTM3U x-tvg-url="https://epg.kanya.io/us/guide.xml.gz"
 #EXTINF:-1 tvg-id="AbadanTV.ir@SD",Abadan
 https://ncdn.telewebion.ir/abadan/live/playlist.m3u8
 #EXTINF:-1 tvg-id="AflakTV.ir@SD",Aflak
